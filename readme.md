@@ -2,7 +2,7 @@
 
 ![showcase-mfe][3]
 
-[Source](1)
+[Source][1]
 
 Micro Frontend architecture is vaguely inspired by Micro-services architecture. Micro frontend architecture is an approach to developing web application as a composition of small frontend apps. Instead of writing a large monolith frontend application, the application is broken down into domain specific micro frontends, which are self-contained and can be developed and deployed independently.
 
@@ -30,7 +30,7 @@ The idea behind Micro Frontends is to think about a web app as a composition of 
 
 ![showcase-mfe-2][4]
 
-[Source](2)
+[Source][2]
 
 ## The main Concept behind Micro Frontend Architecture is as follows -
 
