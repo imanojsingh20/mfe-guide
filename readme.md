@@ -28,6 +28,12 @@ Micro Frontend architecture is vaguely inspired by Micro-services architecture. 
 
 The idea behind Micro Frontends is to think about a web app as a composition of features that are owned by independent teams. Each team has a distinct area of business it cares about and specialises in. A team is cross-functional and develops its features end-to-end, from database to user interface.
 
+## Monolithic Frontends
+
+![showcase-mfe-2][5]
+
+## Organisation in Verticals
+
 ![showcase-mfe-2][4]
 
 [Source][2]
@@ -54,4 +60,4 @@ The idea behind Micro Frontends is to think about a web app as a composition of 
 
 [3]: https://www.cuelogic.com/wp-content/uploads/2020/11/01-Gif-1536x864.gif.webp
 [4]: https://micro-frontends.org/ressources/diagrams/organisational/verticals-headline.png
-
+[5]: https://micro-frontends.org/ressources/diagrams/organisational/monolith-frontback-microservices.png
