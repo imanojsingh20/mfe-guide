@@ -1,6 +1,6 @@
 # Micro Frontend
 
-> ### “An architectural style where independently deliverable frontend applications are composed into a greater whole”
+> “An architectural style where independently deliverable frontend applications are composed into a greater whole”
 
 ![showcase-mfe][3]
 
