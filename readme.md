@@ -54,3 +54,4 @@ The idea behind Micro Frontends is to think about a web app as a composition of 
 
 [3]: https://www.cuelogic.com/wp-content/uploads/2020/11/01-Gif-1536x864.gif.webp
 [4]: https://micro-frontends.org/ressources/diagrams/organisational/verticals-headline.png
+
