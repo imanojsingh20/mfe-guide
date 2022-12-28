@@ -49,7 +49,7 @@ The idea behind Micro Frontends is to think about a web app as a composition of 
 -   Favor Native Browser Features over Custom APIs
     Instead of building a global PubSub system, use browser events for communication. If there is a need to build a cross-team API, try to keep it as simple as possible.
 -   Build a Resilient Web design
-    The features should be useful, even if JavaScript unable to execute. To improve perceived performance, use universal rendering and progressive enhancement...
+    The features should be useful, even if JavaScript unable to execute. To improve perceived performance, use universal rendering and progressive enhancement.
 
 <!-- Links to refrences -->
 
